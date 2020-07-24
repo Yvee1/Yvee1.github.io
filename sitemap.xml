@@ -3,11 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://pages.recursive.me/categories/</loc>
+    <loc>https://pages.recursive.me/projects/hascard/</loc>
+    <lastmod>2020-07-24T11:34:28+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://pages.recursive.me/</loc>
+    <lastmod>2020-07-24T11:34:28+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pages.recursive.me/projects/</loc>
+    <lastmod>2020-07-24T11:34:28+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pages.recursive.me/projects/park/</loc>
+    <lastmod>2019-07-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pages.recursive.me/projects/garden/</loc>
+    <lastmod>2019-04-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pages.recursive.me/categories/</loc>
   </url>
   
   <url>
